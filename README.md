@@ -7,3 +7,5 @@ brain-calc
 <a href="https://asciinema.org/a/nPjFeM1qt1ONQ95qk0fIQjFEK" target="_blank"><img src="https://asciinema.org/a/nPjFeM1qt1ONQ95qk0fIQjFEK.svg" /></a>
 brain-gcd
 <a href="https://asciinema.org/a/S446uo8hCCpp6KtztlMeCR7Mh" target="_blank"><img src="https://asciinema.org/a/S446uo8hCCpp6KtztlMeCR7Mh.svg" /></a>
+brain-prograssion
+<a href="https://asciinema.org/a/cFgNdCuaofLJZSV5xbmZZTl6h" target="_blank"><img src="https://asciinema.org/a/cFgNdCuaofLJZSV5xbmZZTl6h.svg" /></a>
