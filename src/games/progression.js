@@ -3,7 +3,7 @@ import { GetRandomNumber } from '../utils.js';
 
 const progressionLength = 10;
 
-const description5 = 'What number is missing in the progression?';
+const description = 'What number is missing in the progression?';
 
 const getProgression = () => {
   let progressNum = GetRandomNumber(0, 100);
@@ -25,5 +25,5 @@ const getQuestionAndAnswer = () => {
   return [question, correctAnswer];
 };
 export default function GameProgression() {
-  Game(description5, getQuestionAndAnswer);
+  Game(description, getQuestionAndAnswer);
 }

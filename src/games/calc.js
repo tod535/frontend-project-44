@@ -2,7 +2,7 @@ import Game from '../index.js';
 import { GetRandomNumber } from '../utils.js';
 
 const operationSymbols = ['+', '-', '*'];
-const description2 = 'What is the result of the expression?';
+const description = 'What is the result of the expression?';
 
 const GetRandomOperationSumbol = (sumbol) => {
   const sumbolLen = sumbol.length;
@@ -28,5 +28,5 @@ const getQuestionAndAnswer = () => {
   return [question, correctAnswer];
 };
 export default function gameCalc() {
-  Game(description2, getQuestionAndAnswer);
+  Game(description, getQuestionAndAnswer);
 }
