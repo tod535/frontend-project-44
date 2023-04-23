@@ -7,6 +7,6 @@ const getQuestionAndAnswer = () => {
   const correctAnswer = isEvenNumber(question) ? 'yes' : 'no';
   return [question, correctAnswer];
 };
-export default function gameEven() {
+export default () => {
   Game(description, getQuestionAndAnswer);
-}
+};
