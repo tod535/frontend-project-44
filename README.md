@@ -2,10 +2,12 @@
 [![Actions Status](https://github.com/tod535/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/tod535/frontend-project-44/actions)
 (после создания игры прописывать в терминале sudo npm link для запуска игры без make)
 brain-even
-<a href="https://asciinema.org/a/YDZ7BNn8D9FlywD0upyZQfkh5" target="_blank"><img src="https://asciinema.org/a/YDZ7BNn8D9FlywD0upyZQfkh5.svg" /></a>
+<a href="https://asciinema.org/a/gM9Csy7ZWuHpPksmibcxe58Sl" target="_blank"><img src="https://asciinema.org/a/gM9Csy7ZWuHpPksmibcxe58Sl.svg" /></a>
 brain-calc
-<a href="https://asciinema.org/a/nPjFeM1qt1ONQ95qk0fIQjFEK" target="_blank"><img src="https://asciinema.org/a/nPjFeM1qt1ONQ95qk0fIQjFEK.svg" /></a>
+<a href="https://asciinema.org/a/Ea5TdQqCJxzCLL2poKUTjw7Rr" target="_blank"><img src="https://asciinema.org/a/Ea5TdQqCJxzCLL2poKUTjw7Rr.svg" /></a>
 brain-gcd
-<a href="https://asciinema.org/a/S446uo8hCCpp6KtztlMeCR7Mh" target="_blank"><img src="https://asciinema.org/a/S446uo8hCCpp6KtztlMeCR7Mh.svg" /></a>
+<a href="https://asciinema.org/a/hpRoI4O6DifHxmXZfeTwKtJHk" target="_blank"><img src="https://asciinema.org/a/hpRoI4O6DifHxmXZfeTwKtJHk.svg" /></a>
 brain-prograssion
-<a href="https://asciinema.org/a/cFgNdCuaofLJZSV5xbmZZTl6h" target="_blank"><img src="https://asciinema.org/a/cFgNdCuaofLJZSV5xbmZZTl6h.svg" /></a>
+<a href="https://asciinema.org/a/2pqf0RJ7GvwrTUAdz5XV1MhFx" target="_blank"><img src="https://asciinema.org/a/2pqf0RJ7GvwrTUAdz5XV1MhFx.svg" /></a>
+brain-prime
+<a href="https://asciinema.org/a/Guga3MP4F6N7iEyBAWcbRxiK0" target="_blank"><img src="https://asciinema.org/a/Guga3MP4F6N7iEyBAWcbRxiK0.svg" /></a>
