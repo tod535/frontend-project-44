@@ -11,7 +11,7 @@ export default (description, getQuestionAndAnswer) => {
 
   for (let i = 1; i < roundsCount; i += 1) {
     const [question, correctAnswer] = getQuestionAndAnswer();
-    console.log(`Question:${question}`);
+    console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('You answer: ');
     if (correctAnswer === userAnswer) {
       console.log('Correct!');

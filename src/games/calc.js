@@ -23,7 +23,7 @@ const getQuestionAndAnswer = () => {
   const rundomOperation = GetRandomOperationSumbol(operationSymbols);
   const firstNum = GetRandomNumber(0, 10);
   const secondNum = GetRandomNumber(0, 10);
-  const question = ` ${firstNum} ${rundomOperation} ${secondNum}`;
+  const question = `${firstNum} ${rundomOperation} ${secondNum}`;
   const correctAnswer = String(calcOperation(firstNum, secondNum, rundomOperation));
   return [question, correctAnswer];
 };
