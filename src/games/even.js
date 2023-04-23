@@ -10,6 +10,6 @@ const getQuestionAndAnswer = () => {
   return [question, correctAnswer];
 };
 
-export default function GameEven() {
+export default () => {
   Game(description, getQuestionAndAnswer);
-}
+};
