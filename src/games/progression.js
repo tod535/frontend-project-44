@@ -1,7 +1,7 @@
 import Game from '../index.js';
 import { GetRandomNumber } from '../utils.js';
 
-const progressionLength = 10;
+const progressionLength = 5;
 
 const description = 'What number is missing in the progression?';
 
@@ -20,7 +20,7 @@ const getQuestionAndAnswer = () => {
   const progres = getProgression();
   const randomIndex = GetRandomNumber(0, progressionLength);
   const correctAnswer = String(progres[randomIndex]);
-  progres[randomIndex] = '...';
+  progres[randomIndex] = '..';
   const question = progres;
   return [question, correctAnswer];
 };
