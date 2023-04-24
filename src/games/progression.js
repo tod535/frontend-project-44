@@ -1,7 +1,7 @@
 import Game from '../index.js';
 import { GetRandomNumber } from '../utils.js';
 
-const progressionLength = 5;
+const progressionLength = 10;
 
 const description = 'What number is missing in the progression?';
 
