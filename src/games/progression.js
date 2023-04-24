@@ -3,7 +3,7 @@ import { GetRandomNumber } from '../utils.js';
 
 const progressionLength = 10;
 
-const description = 'What number is missing in the progression?';
+const description = ' What number is missing in the progression?';
 
 const getProgression = () => {
   let progressNum = GetRandomNumber(0, 100);
