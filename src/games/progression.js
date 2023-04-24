@@ -21,7 +21,7 @@ const getQuestionAndAnswer = () => {
   const randomIndex = GetRandomNumber(0, progressionLength);
   const correctAnswer = String(progres[randomIndex]);
   progres[randomIndex] = '..';
-  const question = progres;
+  const question = progres.join(' ');
   return [question, correctAnswer];
 };
 export default function GameProgression() {
