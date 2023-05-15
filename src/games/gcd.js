@@ -19,6 +19,6 @@ const getQuestionAndAnswer = () => {
   const correctAnswer = String(GCD(fNum, sNum));
   return [question, correctAnswer];
 };
-export default function GameGcd() {
+export default () => {
   Game(description, getQuestionAndAnswer);
-}
+};

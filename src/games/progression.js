@@ -24,6 +24,6 @@ const getQuestionAndAnswer = () => {
   const question = progres.join(' ');
   return [question, correctAnswer];
 };
-export default function GameProgression() {
+export default () => {
   Game(description, getQuestionAndAnswer);
-}
+};

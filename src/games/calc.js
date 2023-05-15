@@ -27,6 +27,6 @@ const getQuestionAndAnswer = () => {
   const correctAnswer = String(calcOperation(firstNum, secondNum, rundomOperation));
   return [question, correctAnswer];
 };
-export default function gameCalc() {
+export default () => {
   Game(description, getQuestionAndAnswer);
-}
+};
