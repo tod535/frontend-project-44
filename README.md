@@ -1,5 +1,6 @@
 
 [![Actions Status](https://github.com/tod535/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/tod535/frontend-project-44/actions)
+<a href="https://codeclimate.com/github/tod535/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/bfaeedba81eb07a0ac10/maintainability" /></a>
 (после создания игры прописывать в терминале sudo npm link для запуска игры без make)### Hexlet tests and linter status:
 Игры разума (JavaScript)
 «Игры разума» — набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново.
